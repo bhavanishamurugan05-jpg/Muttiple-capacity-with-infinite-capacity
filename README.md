@@ -15,6 +15,9 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 ![image](https://user-images.githubusercontent.com/103921593/203238265-176740b0-eae2-4772-90be-5449869ac9b0.png)
 
 ## Program
+NAME : BHAVANISHA M
+REG NO .: 212225230034
+SLOT NO.: T1 I5
 ```
 import math 
  
@@ -62,3 +65,5 @@ print("-----------------------------------------------------")
 
 ## Result : 
  Multiple server with infinite capacity - (M/M/c):(oo/FIFO) studied successfully
+
+ https://github.com/bhavanishamurugan05-jpg/Muttiple-capacity-with-infinite-capacity.git
